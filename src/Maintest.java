@@ -3,6 +3,7 @@ import static org.junit.Assert.*;
 
 public class MainTest {
 
+
     @Test
     public void testValidInput() {
         String result = Main.check(25, true, 0.07);
